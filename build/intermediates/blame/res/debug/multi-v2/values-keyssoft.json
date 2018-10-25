@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jonathan/AndroidStudioProjects/DarkPomodoroTimer/mobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-keyssoft/values-keyssoft.xml",
+            "map": [
+                {
+                    "source": "/home/jonathan/AndroidStudioProjects/DarkPomodoroTimer/mobile/src/main/res/values-keyssoft/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "26",
+                        "endOffsets": "77"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "25",
+                        "endOffsets": "76"
+                    }
+                }
+            ]
+        }
+    ]
+}

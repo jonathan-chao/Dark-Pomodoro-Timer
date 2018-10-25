@@ -1,0 +1,4 @@
+#Sun Oct 21 23:44:17 PDT 2018
+base.0=/home/jonathan/AndroidStudioProjects/DarkPomodoroTimer/mobile/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
